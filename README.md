@@ -1,3 +1,14 @@
+# Customer Application Project
+
+## Features:
+
+• The application has responsive design and it is responsive in all devices.
+• Search is designed in the way that not only does it find all the matches, but also it can find the similar string matches which is useful in the case of spelling mistakes.
+• Minimum character length for searching is 2 character.
+• In the “user form “after submitting, it is designed to redirect the user to the first page.
+• In the “user Form” all fields are checked for validation.
+• Since I have used “React17” I could not use Enzyme for testing as it is not compatible with this version of React, so I decided to use “react-test-renderer” library for test.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
